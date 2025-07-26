@@ -46,10 +46,10 @@
 
 <h3>Connect with me:</h3>
 <p align="left">
-  <a href="[https://www.linkedin.com/in/viral-bhadeshiya/](https://www.linkedin.com/in/juanseedev/)" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/juanseedev/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Linkedin Juanse" height="30" width="40" /></a>
-  <a href="[https://www.instagram.com/viralbhadeshiya/](https://www.instagram.com/juanseedev/)" target="blank"><img align="center"
+  <a href="https://www.instagram.com/juanseedev/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Instragram Juanse" height="30" width="40" /></a>
   <a href="https://discordapp.com/users/jnse7" target="blank"><img align="center"
